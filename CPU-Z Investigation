@@ -1,0 +1,20 @@
+Hardware Investigation:
+
+Use CPU-Z to investigate the following hardware components:
+CPU:
+Identify the CPU model. 
+    
+
+Note down the base and boost clock speeds.
+Determine the number of cores and threads.
+Cache:
+Explore the L1, L2, and L3 cache sizes.
+Memory:
+Obtain information about the installed RAM.
+Identify RAM type (DDR, DDR2, DDR3, DDR4).
+Note down the frequency and size of the RAM.
+Reporting:
+
+Write a small report summarizing your findings.
+Include a brief overview of your CPU, cache, and memory specifications.
+Highlight any interesting observations or variations.
